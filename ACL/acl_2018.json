@@ -104,7 +104,7 @@
     "Learning to Control the Specificity in Neural Response Generation": "https://aclanthology.org/P18-1102/",
     "Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network": "https://aclanthology.org/P18-1103/",
     "MojiTalk: Generating Emotional Responses at Scale": "https://aclanthology.org/P18-1104/",
-    "Taylor's law for Human Linguistic Sequences": "https://aclanthology.org/P18-1105/",
+    "Taylor’s law for Human Linguistic Sequences": "https://aclanthology.org/P18-1105/",
     "A Framework for Representing Language Acquisition in a Population Setting": "https://aclanthology.org/P18-1106/",
     "Prefix Lexicalization of Synchronous CFGs using Synchronous TAG": "https://aclanthology.org/P18-1107/",
     "Straight to the Tree: Constituency Parsing with Neural Syntactic Distance": "https://aclanthology.org/P18-1108/",
@@ -255,7 +255,7 @@
     "Object-oriented Neural Programming (OONP) for Document Understanding": "https://aclanthology.org/P18-1253/",
     "Finding syntax in human encephalography with beam search": "https://aclanthology.org/P18-1254/",
     "Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information": "https://aclanthology.org/P18-1255/",
-    "Let's do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers": "https://aclanthology.org/P18-1256/",
+    "Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers": "https://aclanthology.org/P18-1256/",
     "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)": "https://aclanthology.org/P18-2000/",
     "Continuous Learning in a Hierarchical Multiscale Neural Network": "https://aclanthology.org/P18-2001/",
     "Restricted Recurrent Neural Tensor Networks: Exploiting Word Frequency and Compositionality": "https://aclanthology.org/P18-2002/",
@@ -380,6 +380,6 @@
     "Pretraining Sentiment Classifiers with Unlabeled Dialog Data": "https://aclanthology.org/P18-2121/",
     "Disambiguating False-Alarm Hashtag Usages in Tweets for Irony DetectionHen-": "https://aclanthology.org/P18-2122/",
     "Cross-Target Stance Classification with Self-Attention Networks": "https://aclanthology.org/P18-2123/",
-    "Know What You Don't Know: Unanswerable Questions for SQuAD": "https://aclanthology.org/P18-2124/",
-    "'Lighter' Can Still Be Dark: Modeling Comparative Color Descriptions": "https://aclanthology.org/P18-2125/"
+    "Know What You Don’t Know: Unanswerable Questions for SQuAD": "https://aclanthology.org/P18-2124/",
+    "‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions": "https://aclanthology.org/P18-2125/"
 }
