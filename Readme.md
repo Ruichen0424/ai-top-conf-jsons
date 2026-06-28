@@ -1,4 +1,4 @@
-# AI-Top-Conf-JSONs
+# AIPaperX: A one-stop search engine for top-tier AI conference papers
 
 ## 📝 About The Project
 
