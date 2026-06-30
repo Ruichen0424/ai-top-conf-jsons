@@ -1,4 +1,4 @@
-# AIPaperX: A one-stop search engine for top-tier AI conference papers
+# AIPaperX: A one-stop search engine for top-tier AI conference & Journals papers
 
 ## 📝 About The Project
 
